@@ -69,16 +69,7 @@ html {
     flex-wrap: wrap;
     justify-content: center;
   }
-  .click{
-    background-color: black;
-    color: #fff;
-    padding: 10px 30px;
-    font-size: 20px;
-    position: absolute;
-    top: 385px;
-    left: 690px;
-    z-index: 1;
-  }
+
   .disco-box{
     width: 4rem;
     height: 4rem;
